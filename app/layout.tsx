@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru`,
-    metadataBase: new URL("https://smppamertt.pages.dev"),
+    metadataBase: new URL("https://videobokeparil.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: 'e37Yeo0Y90J_gA9V2DPI45oSDFWlZ4jGa0S85RxaTbQ',
-        yandex: 'de543abf2eeadfd9',
+        yandex: 'b9177c645e62bb7a',
     },
 };
 
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru`,
-        "logo": "https://smppamertt.pages.dev/favicon.ico",
-        "url": "https://smppamertt.pages.dev",
+        "logo": "https://videobokeparil.pages.dev/favicon.ico",
+        "url": "https://videobokeparil.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://smppamertt.pages.dev"
+            "url":"https://videobokeparil.pages.dev"
             },
             "foundingDate":"2025-05-12"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://smppamertt.pages.dev",
+        "url": "https://videobokeparil.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://smppamertt.pages.dev/?q={search_term}", 
+          "target": "https://videobokeparil.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
